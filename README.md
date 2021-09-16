@@ -4,4 +4,4 @@ Please [create issues](https://github.com/boothresearch/feedback/issues/new) on 
 
  - Requests for Dockerfiles/images containing specific dependencies.
  - Requests for workshops on specific topics.
- - Requests for articles to be added to [the Handbook](https://handbook.booth.school/).
+ - Suggestions for articles to be added to [the Handbook](https://handbook.booth.school/).
